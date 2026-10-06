@@ -1,4 +1,5 @@
-# openmyau-sigma
+# openmyau-gamma
+
 sigma myau with everything u wont need
 
 # FOR render issues:
