@@ -135,7 +135,7 @@ Code reference: [OpenMyau](https://github.com/60124808866/OpenMyau) ·
 [OpenMyau-Plus](https://github.com/IamNespola/OpenMyau-Plus) ·
 [MyauReborn](https://github.com/Infinity114514/MyauReborn)
 
-Developer: [Mornly](https://github.com/Mornly)
+Developer: [Atreeshine](https://github.com/Atreeshine)
 
 ## Disclaimer
 
